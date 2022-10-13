@@ -41,7 +41,7 @@ header{
 }
 
 footer{
-    background-color:tan;
+    background-color:rgb(69, 69, 132);
     color:white;
 }
 footer a{
@@ -58,7 +58,7 @@ footer p a:hoover{
     text-decoration: underline;
 }
 .msg{
-    background-color: tan;
+    background-color:rgb(69, 69, 132);
     color:white;
 }
 .msg h2{
