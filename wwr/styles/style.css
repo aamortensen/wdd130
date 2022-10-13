@@ -29,16 +29,18 @@ main section{
 body{
     max-width: 1600px;
     margin: 0 auto;
-    background-color: #2a6e7f ;
+    background-color:#2a6e7f ;
 }
 #background{
-    height: 725px;   
+    height: 725px;
+    color:white;   
 }
 header{
     background-color:tan;
 }
 
 footer{
+    background-color:#2a6e7f;
     color:white;
 }
 footer a{
@@ -53,6 +55,9 @@ footer p{
 }
 footer p a:hoover{
     text-decoration: underline;
+}
+.msg{
+    color:white;
 }
 .msg h2{
     color:white;
