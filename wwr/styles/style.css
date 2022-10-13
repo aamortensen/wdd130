@@ -29,10 +29,11 @@ main section{
 body{
     max-width: 1600px;
     margin: 0 auto;
-    background-color:#2a6e7f ;
+    background-color:white ;
 }
 #background{
     height: 725px;
+    background-color: tan;
     color:white;   
 }
 header{
@@ -57,6 +58,7 @@ footer p a:hoover{
     text-decoration: underline;
 }
 .msg{
+    background-color: tan;
     color:white;
 }
 .msg h2{
@@ -66,10 +68,12 @@ footer p a:hoover{
     color:white;
 }
 .book, .join{
+    background-color: tan;
     color:white;
     text-decoration: none;
 }
 .book:hoover, .join:hover{
+    background-color: tan;
     color:yellow;
 }
 .home-title{
