@@ -29,7 +29,7 @@ main section{
 body{
     max-width: 1600px;
     margin: 0 auto;
-    background-color:  white ;
+    background-color: tan ;
 }
 #background{
     height: 725px;   
