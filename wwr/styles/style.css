@@ -65,7 +65,7 @@ footer p a:hoover{
     text-decoration: none;
 }
 .book:hoover, .join:hover{
-    color: #000;
+    color:yellow;
 }
 .home-title{
     color:white;
