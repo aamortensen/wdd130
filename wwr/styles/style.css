@@ -58,9 +58,9 @@ main section{
 main section img{
     box-sizing: border-box;
 }
-#home-grid {
+.home-grid {
     display: grid;
-    grid-template-columns: 50px;
+    grid-template-columns: repeat(10, 1fr);
     padding: 25px;
 }
 body{
@@ -172,7 +172,7 @@ footer .social img{
     opacity: .6;
     transform: scale(1.1);
 }
-.river-card {
+.rivers-card {
     grid-column: 2/4;
     grid-row: 2/3;
 }
