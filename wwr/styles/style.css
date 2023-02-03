@@ -33,7 +33,7 @@ nav a:hover{
 }
 #hero-msg h4{
     text-align: center;
-    color: white;
+    color: black;
 }
 #hero-img{
     width: 100%;
@@ -48,7 +48,7 @@ h2{
 }
 h4{
     color:black;
-    /* font-size: 30px; */
+    font-size: 20px;
 }
 .button-box{
     text-align: center;
@@ -69,7 +69,7 @@ body{
     max-width: 1600px;
     margin: 0;
     padding: 0;
-    background-color:white;
+    background-color: white;
     font-family: Lato, Helvetica, sans-serif;
     font-size: 22px;
 }
@@ -85,6 +85,11 @@ header{
     grid-template-columns: 150px auto;
     background-color:tan;
     padding-bottom: 100px;
+}
+.home-title{
+    font-family: Lato, Helvetica, sans-serif;
+    font-size: 2em;
+    margin-top: 10px;
 }
 
 footer{
@@ -112,12 +117,14 @@ footer p a:hover{
 footer .social img{
     padding-top: 15px;
 }
+
 .msg{
     background-color:#53d8fb;
     padding: 35px;
     grid-column: 6/10;
     grid-row: 6/7;
     box-shadow: 5px 5px 10px #53d8fb;
+    line-height: 1.5em;
 }
 .msg h2{
     color:white;
@@ -159,12 +166,12 @@ footer .social img{
     justify-self: center;
     align-self: center;
 }
-.river-card, .camping-card, .rapids-card{
+.rivers-card, .camping-card, .rapids-card{
     margin: 200px 0;
     display: grid;
 }
 .card-img{
-    border: 10px solid tan;
+    border: 10px solid black;
     transition: transform .5s;
     box-shadow: 5px 5px 10px #66c3ff;
 }
@@ -197,13 +204,7 @@ footer .social img{
     grid-row: 5/8;
     box-shadow: 5px 5px 10px #53d8fb;
 }
-.msg {
-    background-color: #53d8fb;
-    padding: 35px;
-    grid-column: 6/10;
-    grid-row: 6/7;
-    box-shadow: 5px 5px 10px #53d8fb;
-}
+
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
