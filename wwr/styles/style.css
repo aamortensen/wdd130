@@ -70,7 +70,7 @@ body{
     margin: 0;
     padding: 0;
     background-color: white;
-    font-family: Lato, Helvetica, sans-serif;
+    font-family: 'Andale Mono', Monaco, Tahoma;
     font-size: 22px;
 }
 #background{
@@ -87,7 +87,7 @@ header{
     padding-bottom: 100px;
 }
 .home-title{
-    font-family: Lato, Helvetica, sans-serif;
+    font-family: 'Andale Mono', Monaco, Tahoma;
     font-size: 2em;
     margin-top: 10px;
 }
@@ -128,7 +128,7 @@ footer .social img{
 }
 .msg h2{
     color:white;
-    font-family: Lato, Helvetica, sans-serif;
+    font-family: 'Andale Mono', Monaco, Tahoma;
 }
 .msg p{
     color:white;
@@ -150,7 +150,7 @@ footer .social img{
 }
 .home-title{
     color:white;
-    font-family: Lato, Helvetica, sans-serif;
+    font-family: 'Andale Mono', Monaco, Tahoma;
     font-size: 2em;
     margin-top: 10px;
 }
