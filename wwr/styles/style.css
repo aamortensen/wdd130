@@ -127,11 +127,11 @@ footer .social img{
     line-height: 1.5em;
 }
 .msg h2{
-    color:white;
+    color:black;
     font-family: 'Andale Mono', Monaco, Tahoma;
 }
 .msg p{
-    color:white;
+    color:black;
     font-size: .8em;
     padding-bottom: 15px;
 }
@@ -146,7 +146,7 @@ footer .social img{
 }
 .book:hover, .join:hover{
     background-color: tan;
-    color:yellow;
+    color:black;
 }
 .home-title{
     color:white;
